@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBQu_LiD7FuY-qgr1MvK9TuYvVuVAoKFHw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>306969401241</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.checkCheckApp</string>
+	<key>PROJECT_ID</key>
+	<string>check-check-app-30723</string>
+	<key>STORAGE_BUCKET</key>
+	<string>check-check-app-30723.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:306969401241:ios:a1e4805a8006a798ec6508</string>
+</dict>
+</plist>
